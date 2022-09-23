@@ -1,2 +1,4 @@
-# projeto-individual1
-Projeto 1 - Individual Módulo 1 - "portfólio" ♣
+# **Projeto individual 1**
+Projeto Individual 1 - Módulo 1 (Front-end)
+
+"Portfólio" ♣
